@@ -1,11 +1,16 @@
 _repo: Solens-Barn-Bilder-fran-amerika-fore-Columbus_59246
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59246-h/images/cover.jpg
 creator:
   author:
     agent_name: Nissen, Carl
     gutenberg_agent_id: '50359'
     url: http://www.gutenberg.org/2009/agents/50359
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59246#Solens-Barn-Bilder-fran-amerika-fore-Columbus
 gutenberg_issued: '2019-04-11'
 gutenberg_type: Text
 identifiers:
